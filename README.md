@@ -28,3 +28,7 @@ I am a very beginner of using GitHub, this is actually my _first_ time. XD
 3. Home (Own Entreprise)
 
 *_Thank you for your reading!_* 
+
+![alt text](https://github.com/csci3250-2019/student-1155109318/blob/master/code1.png)
+
+![alt_text](https://github.com/csci3250-2019/student-1155109318/blob/master/code2.png)
